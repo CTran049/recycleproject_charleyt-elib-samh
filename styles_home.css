@@ -1,0 +1,22 @@
+header {
+  background-color: rgb(242, 242, 242);
+}
+
+nav li a {
+  display: block;
+  background-color: rgb(230, 230, 230);
+  float: left;
+  padding: 1%;
+  text-align: center;
+  width: 20%;
+  font-size: 1em;
+}
+
+nav li a:visited, li a:link {
+  text-decoration: none;
+  color: black;
+}
+
+nav :hover {
+  background-color: blue;
+}

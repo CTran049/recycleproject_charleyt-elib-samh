@@ -9,7 +9,7 @@ nav li a {
   padding: 1%;
   text-align: center;
   width: 25%;
-  font-size: 1em;
+  font-size: 1.5vw;
 }
 
 nav li a:visited, li a:link {
@@ -19,4 +19,41 @@ nav li a:visited, li a:link {
 
 nav :hover {
   background-color: green;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5vw;
+  padding-left: 1%;
+  padding-top: 1%;
+}
+
+p {
+  display: block;
+  margin: 3%;
+  font-size: 1.5vw;
+  line-height: normal;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transform: scale(2);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: .5%;
+  margin-bottom: 2%;
+}
+
+footer {
+  text-align: center;
+  background-color: lightgreen;
+  padding: 1%;
+  margin-top: 3%;
 }

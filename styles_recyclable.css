@@ -1,3 +1,4 @@
+/*base css*/
 header {
   background-color: rgb(242, 242, 242);
 }
@@ -19,4 +20,13 @@ nav li a:visited, li a:link {
 
 nav :hover {
   background-color: green;
+}
+
+/*styles*/
+h1{
+
+}
+
+h2{
+  
 }

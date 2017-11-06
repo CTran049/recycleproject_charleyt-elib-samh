@@ -24,9 +24,20 @@ nav :hover {
 
 /*styles*/
 h1{
-
+  padding-top: 5%;
+  font-size: 4vw;
+  text-align: center;
 }
 
 h2{
-  
+  font-size: 25px;
+}
+
+div{
+  padding: 5px;
+}
+
+li#rec{
+  padding: 3px;
+  padding-left: 20px;
 }

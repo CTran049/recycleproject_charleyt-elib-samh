@@ -1,27 +1,4 @@
-header {
-  background-color: rgb(242, 242, 242);
-}
-
-nav li a {
-  display: block;
-  background-color: lightgreen;
-  float: left;
-  padding: 1%;
-  text-align: center;
-  width: 25%;
-  font-size: 1.5vw;
-}
-
-nav li a:visited, li a:link {
-  text-decoration: none;
-  color: black;
-}
-
-nav :hover {
-  background-color: green;
-}
-
-h1 {
+/*h1 {
   text-align: center;
   font-size: 5vw;
   padding-left: 1%;
@@ -60,4 +37,4 @@ footer {
   background-color: lightgreen;
   padding: 1%;
   margin-top: 3%;
-}
+}*/

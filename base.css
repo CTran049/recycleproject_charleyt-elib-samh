@@ -27,7 +27,14 @@ html {
 }
 
 header {
-  background-color: rgb(242, 242, 242);
+  background-color: white;
+}
+
+header img {
+  display: block;
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav li a {

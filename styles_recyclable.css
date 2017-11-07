@@ -1,8 +1,4 @@
 /*base css*/
-header {
-  background-color: rgb(242, 242, 242);
-}
-
 nav li a {
   display: block;
   background-color: lightgreen;

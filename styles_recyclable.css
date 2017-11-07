@@ -36,7 +36,7 @@ h2{
 div{
   padding: 5px;
   color: white;
-  text-shadow: black 2px 2px 1px, black -2px -2px 1px, black -2px 2px 1px, black 2px -2px 1px;
+  text-shadow: black 1px 1px 1px, black -1px -1px 1px, black -1px 1px 1px, black 1px -1px 1px;
 }
 
 li#rec{

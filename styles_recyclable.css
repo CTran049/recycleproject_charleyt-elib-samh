@@ -1,4 +1,7 @@
 /*base css*/
+/**{
+  outline: red solid 2px;
+}*/
 nav li a {
   display: block;
   background-color: lightgreen;
@@ -6,7 +9,7 @@ nav li a {
   padding: 1%;
   text-align: center;
   width: 25%;
-  font-size: 1em;
+  font-size: 1.5vw;
 }
 
 nav li a:visited, li a:link {
@@ -38,4 +41,14 @@ div{
 li#rec{
   padding: 3px;
   padding-left: 20px;
+}
+
+#a1{
+  float: left;
+  clear: left;
+  border: 50%;
+}
+
+#a2{
+  flex: 1 1 80px;
 }

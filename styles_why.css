@@ -5,7 +5,7 @@ nav li a {
   padding: 1%;
   text-align: center;
   width: 25%;
-  font-size: 1em;
+  font-size: 1.5vw;
 }
 
 nav li a:visited, li a:link {

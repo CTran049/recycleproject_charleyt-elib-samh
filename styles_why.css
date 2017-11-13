@@ -19,4 +19,7 @@ nav :hover {
 
 img.r1{
   width: 50%;
+  padding: 10px;
+  display: block;
+  margin: auto;
 }

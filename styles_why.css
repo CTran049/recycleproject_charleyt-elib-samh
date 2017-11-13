@@ -16,3 +16,7 @@ nav li a:visited, li a:link {
 nav :hover {
   background-color: green;
 }
+
+img.r1{
+  width: 50%;
+}

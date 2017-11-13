@@ -55,3 +55,10 @@ nav li a:visited, li a:link {
 nav :hover {
   background-color: green;
 }
+
+footer {
+  text-align: center;
+  background-color: lightgreen;
+  padding: 1%;
+  margin-top: 3%;
+}
